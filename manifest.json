@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Hide LinkedIn Profile Stats",
+  "version": "0.0.1",
+  "description": "Hide LinkedIn statistics related to page views and post impressions",
+   "permissions": ["scripting"],
+  "icons": {
+    "16": "images/chart-emoji-16.png",
+    "32": "images/chart-emoji-32.png",
+    "48": "images/chart-emoji-48.png",
+    "128": "images/chart-emoji-128.png"
+},
+"background": {
+    "service_worker": "scripts/background.js"
+},
+"web_accessible_resources": [
+  {
+    "resources": ["css/*.css"],
+    "extension_ids": [
+      "elaobedgdmbhchnbjcfpkcgdjhfnemdk"
+    ]
+    }
+  ],
+"content_scripts": [
+    {
+        "matches": [
+        "*://www.linkedin.com/feed/*"
+      ],
+      "css": ["css/feed.css"]
+    }
+],
+  "host_permissions": [
+    "*://www.linkedin.com/feed/*"
+  ],
+  "action": {
+      "default_popup": "popup.html"
+  }
+
+}

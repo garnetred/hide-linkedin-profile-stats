@@ -1,0 +1,4 @@
+.org-organization-admin-pages-entrypoint-card__card,
+.feed-identity-module__widgets {
+  display: none !important;
+}
