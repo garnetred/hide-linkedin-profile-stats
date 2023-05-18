@@ -1,4 +1,4 @@
-# No LinkedIn News
+# No LinkedIn Profile Stats
 
 ## Abstract
 This browser extension hides the page view and post impression statistics on LinkedIn.
