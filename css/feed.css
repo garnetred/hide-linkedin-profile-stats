@@ -1,4 +1,5 @@
 .org-organization-admin-pages-entrypoint-card__card,
-.feed-identity-module__widgets {
+.feed-identity-module__widgets,
+.artdeco-toast-item--visible {
   display: none !important;
 }
