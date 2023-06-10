@@ -1,6 +1,8 @@
 .org-organization-admin-pages-entrypoint-card__card,
 .feed-identity-module__widgets,
 .artdeco-toast-item--visible,
-.feed-new-update-pill__new-update-button {
+.feed-new-update-pill__new-update-button,
+aside
+{
   display: none !important;
 }
