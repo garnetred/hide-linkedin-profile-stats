@@ -1,0 +1,10 @@
+.org-organization-admin-pages-entrypoint-card__card,
+.feed-identity-module__widgets,
+.artdeco-toast-item--visible,
+.feed-new-update-pill__new-update-button,
+aside > section.artdeco-card.ember-view.relative.break-words.pb3.mt2,
+.pv-profile-pymk__container,
+.pvs-loader__profile-card
+{
+  display: none !important;
+}
