@@ -1,10 +1,10 @@
+
 # No LinkedIn Profile Stats
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/decemberthedeveloper)
 
 ## Abstract
 This browser extension hides the page view and post impression statistics on LinkedIn.
-
-## Donate 
-You can support this extension by [buying me a coffee](https://www.buymeacoffee.com/decemberthedeveloper) to help me continue to make free, user-friendly browser extensions.
 
 ## Tech Stack
 This project uses vanilla JS, CSS, and HTML.
