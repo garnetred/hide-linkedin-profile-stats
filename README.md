@@ -1,4 +1,3 @@
-
 # No LinkedIn Profile Stats
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/decemberthedeveloper)
@@ -9,6 +8,7 @@ This browser extension hides the following on LinkedIn:
 
 - page view statistics
 - post impression statistics
+- number of followers
 - like counts on individual posts
 - people you may know section on individual profiles
 - people also viewed section on individual profiles
