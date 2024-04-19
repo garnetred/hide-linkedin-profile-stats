@@ -33,5 +33,5 @@
 
 - [ ] I have self-reviewed my code and added comments where relevant.
 - [ ] I have updated any relevant documentation.
-- [ ] I have incremented the version number.
-- [ ] I have updated the version number in the popup.html file. 
+- [ ] I have incremented the version number in the manifest.json file.
+- [ ] I have updated the version number in the popup.html file.
