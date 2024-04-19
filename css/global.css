@@ -4,7 +4,11 @@
 .feed-new-update-pill__new-update-button,
 aside > section.artdeco-card.ember-view.relative.break-words.pb3.mt2,
 .pv-profile-pymk__container,
-.pvs-loader__profile-card
-{
+.pvs-loader__profile-card {
   display: none !important;
+}
+
+/* using visibility hidden to preserve the existing structure with comments on the bottom right-hand side of each post */
+li.social-details-social-counts__reactions {
+  visibility: hidden !important;
 }
