@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Hide LinkedIn Profile Stats",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hide LinkedIn statistics related to page views and post impressions",
    "permissions": ["scripting"],
   "icons": {
