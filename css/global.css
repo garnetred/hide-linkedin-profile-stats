@@ -12,3 +12,13 @@ aside > section.artdeco-card.ember-view.relative.break-words.pb3.mt2,
 li.social-details-social-counts__reactions {
   visibility: hidden !important;
 }
+
+/* hides follower count visible when looking at your own posts and activity */
+a[href="/mynetwork/network-manager/people-follow/followers/"] {
+  visibility: hidden !important;
+}
+
+/* hides post impression numbers */
+.ca-entry-point__num-views > strong {
+  visibility: hidden !important;
+}
