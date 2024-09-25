@@ -22,3 +22,8 @@ a[href="/mynetwork/network-manager/people-follow/followers/"] {
 .ca-entry-point__num-views > strong {
   visibility: hidden !important;
 }
+
+/* hides profile stats in left hand sidebar */
+.feed-left-nav-growth-widgets__widgets {
+  display: none !important;
+}
